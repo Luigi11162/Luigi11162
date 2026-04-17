@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Luigi Bacco 👋</h1>
-<h3 align="center">M.Sc. Student in Computer Science 💻 | Cybersecurity @ University of Salerno</h3>
+<h3 align="center">M.Sc. in Computer Science 💻 | Cybersecurity @ University of Salerno</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=luigi11162&label=Profile%20views&color=0e75b6&style=flat" alt="luigi11162" />
